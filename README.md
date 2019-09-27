@@ -1,2 +1,2 @@
-# cswmc2
-bot
+# DadaskisBot
+Another Markov chain on Petooohon
